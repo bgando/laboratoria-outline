@@ -1,6 +1,4 @@
-
-# Month 1: Internet World
-<br>
+# Prework
 ##1. Perfil en la web
 ###Topic 
 ###Slides/Resource 
@@ -10,6 +8,10 @@
 ###Topic 
 ###Slides/Resource 
 ###Project
+
+# Month 1: Internet World
+<br>
+
 
 ## 1. Descubrimiento
 ###Topic 
@@ -32,6 +34,7 @@
 - [Intro to HTML](http://www.teaching-materials.org/htmlcss-1day/html-basics/slides.html)
 ###Slides/Resource 
 ###Project
+
 <br>
 # Month 2: HTML + CSS
 <br>
