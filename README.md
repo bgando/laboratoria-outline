@@ -200,20 +200,23 @@ a copy-this project like this: http://www.teaching-materials.org/htmlcss-1day/cs
 
 ## Week 18 AJAX/JSON (WP)
 ###Topic
+- review functions + objects
 - GET, POST, PUT
 - parts of $.ajax({}) argument 
 ###Slides/Resource 
 ###Project
 
 ## Week 19 Ajax/JSON w/ BaaS (WP)
-###Topic 
+###Topic
+- review $.ajax
 - intro to BaaS
-- REST
+- REST API
 ###Slides/Resource 
 ###Project
 
 ## Week 20
-###Topic 
+###Topic
+- finish up projects
 ###Slides/Resource 
 ###Project
 
