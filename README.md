@@ -119,18 +119,39 @@ a copy-this project like this: http://www.teaching-materials.org/htmlcss-1day/cs
 
 ## Programming Fundamentals
 ###Topic 
+- variables
+- primitive data types
+- comments
+- expressions
+- compartor operations (===, <, etc)
+- if/else
+- truthy/falsy
+- while loop
+- for loop
+- indentation
 ###Slides/Resource 
 - http://www.teaching-materials.org/javascript/
 ###Project
 
 ## JavaScript pt 2
 ###Topic 
+- objects
+- arrays
+- loops review
+- functions
 ###Slides/Resource 
 - http://www.teaching-materials.org/javascript/
 ###Project
 
 ## jQuery
 ###Topic 
+- review JS
+- What is a library?
+- selectors
+- reading elements (.html, .text, .attr, .css)
+- manipulate elements
+- inject elements into the DOM (.append, .prepend, .html)
+- create DOM nodes
 ###Slides/Resource 
 - http://www.teaching-materials.org/jquery/
 ###Project
@@ -138,6 +159,9 @@ a copy-this project like this: http://www.teaching-materials.org/htmlcss-1day/cs
 
 ## jQuery
 ###Topic 
+- review select/create, change, inject
+- events
+- jquery object vs regular object
 ###Slides/Resource 
 - http://www.teaching-materials.org/jquery2/
 ###Project
@@ -169,16 +193,22 @@ a copy-this project like this: http://www.teaching-materials.org/htmlcss-1day/cs
 
 ## Week 17 jQuery Review?
 ###Topic 
+- select/create, manipulate, inject
+- what is a library
 ###Slides/Resource 
 ###Project
 
 ## Week 18 AJAX/JSON (WP)
-###Topic 
+###Topic
+- GET, POST, PUT
+- parts of $.ajax({}) argument 
 ###Slides/Resource 
 ###Project
 
 ## Week 19 Ajax/JSON w/ BaaS (WP)
 ###Topic 
+- intro to BaaS
+- REST
 ###Slides/Resource 
 ###Project
 
